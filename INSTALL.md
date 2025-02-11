@@ -11,7 +11,7 @@
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    $ git clone https://github.com/JoaoGaValentim/picklerick_zed/pickle_rick.json
+    $ git clone https://github.com/JoaoGaValentim/picklerick_zed
     $ cd picklerick_zed_main 
     $ cp pickle_rick.json ~/.config/zed/themes/
 
