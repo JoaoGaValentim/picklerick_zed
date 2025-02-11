@@ -1,6 +1,6 @@
 <h1 align="center">
     <img src=".github/assets/img/pickle.png" alt="Pickle Rick" height="100" /> <br />
-    PickleRickZed for <a href="https://zed.dev">Zed Code Editor</a>
+    PicklesRickZed for <a href="https://zed.dev">Zed Code Editor</a>
 </h1>
 <p align="center" dir="auto">
   <strong>Dark theme for Zed Code Editor</strong>
